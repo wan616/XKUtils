@@ -1,4 +1,4 @@
-package com.wan618.utils
+package com.wan616.utils
 
 import java.io.File
 import java.io.FileInputStream

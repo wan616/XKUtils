@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.wan618.utils"
+    namespace = "com.wan616.utils"
     compileSdk = 34
 
     defaultConfig {
